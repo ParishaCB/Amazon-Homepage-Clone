@@ -1,2 +1,8 @@
 # Amazon-Homepage-Clone
-Creating a clone of the Amazon homepage using HTML &amp; CSS
+Created a clone of the Amazon homepage using HTML &amp; CSS
+
+# Technologies
+- HTML
+- CSS
+
+# Link to project (update later)
