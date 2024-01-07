@@ -6,3 +6,4 @@ Created a clone of the Amazon homepage using HTML &amp; CSS
 - CSS
 
 # Link to project (update later)
+https://parishacb.github.io/Amazon-Homepage-Clone/ 
